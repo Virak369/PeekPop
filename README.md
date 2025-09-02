@@ -12,9 +12,7 @@ ________________________________________
 2. Get the Project from GitHub
 You have two main options:
 Option A – Git clone (best if you want to contribute)
-
-
-
+git clone https://github.com/Virak369/PeekPop.git
 This downloads the repository to your computer.
 Option B – Download ZIP
 •	On the GitHub project page → Code → Download ZIP.
